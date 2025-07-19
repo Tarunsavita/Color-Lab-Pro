@@ -266,7 +266,6 @@ This project demonstrates:
 **Tahir Naseer**
 - Computer Science Student
 - Web Developer & UI/UX Enthusiast
-- Final Year Project 2025
 
 ## 📄 License
 
@@ -282,3 +281,9 @@ This project is created for educational purposes as a final year computer scienc
 ---
 
 **ColorLab Pro** - Professional color tools for the modern web. Built with passion and precision for designers, developers, and digital artists worldwide.
+
+---
+
+```
+https://imtahirnaseer.github.io/Color-Lab-Pro/
+```
