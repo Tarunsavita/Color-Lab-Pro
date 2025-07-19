@@ -1,6 +1,6 @@
 # ColorLab Pro - Advanced Color Tools Website
 
-A comprehensive, professional color checker and manipulation website built with pure HTML, CSS, and JavaScript. This project serves as a final year computer science project, showcasing advanced web development skills and color science implementation.
+A comprehensive, professional color checker and manipulation website built with pure HTML, CSS, and JavaScript, showcasing advanced web development skills and color science implementation.
 
 ## 🎨 Features
 
